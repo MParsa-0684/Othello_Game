@@ -1,0 +1,36 @@
+C:\Users\mparsa\Desktop\Programming Term-2\Othello\Othello\bin\Debug\Othello.exe.config
+C:\Users\mparsa\Desktop\Programming Term-2\Othello\Othello\bin\Debug\Othello.exe
+C:\Users\mparsa\Desktop\Programming Term-2\Othello\Othello\bin\Debug\Othello.pdb
+C:\Users\mparsa\Desktop\Programming Term-2\Othello\Othello\obj\Debug\Othello.csprojResolveAssemblyReference.cache
+C:\Users\mparsa\Desktop\Programming Term-2\Othello\Othello\obj\Debug\Othello.Form1.resources
+C:\Users\mparsa\Desktop\Programming Term-2\Othello\Othello\obj\Debug\Othello.Properties.Resources.resources
+C:\Users\mparsa\Desktop\Programming Term-2\Othello\Othello\obj\Debug\Othello.csproj.GenerateResource.Cache
+C:\Users\mparsa\Desktop\Programming Term-2\Othello\Othello\obj\Debug\Othello.exe
+C:\Users\mparsa\Desktop\Programming Term-2\Othello\Othello\obj\Debug\Othello.pdb
+C:\Users\mparsa\Desktop\Othello\Othello\bin\Debug\Othello.exe.config
+C:\Users\mparsa\Desktop\Othello\Othello\obj\Debug\Othello.exe
+C:\Users\mparsa\Desktop\Othello\Othello\obj\Debug\Othello.pdb
+C:\Users\mparsa\Desktop\Othello\Othello\bin\Debug\Othello.exe
+C:\Users\mparsa\Desktop\Othello\Othello\bin\Debug\Othello.pdb
+C:\Users\mparsa\Desktop\Othello\Othello\obj\Debug\Othello.csprojResolveAssemblyReference.cache
+C:\Users\mparsa\Desktop\Othello\Othello\obj\Debug\Othello.Form1.resources
+C:\Users\mparsa\Desktop\Othello\Othello\obj\Debug\Othello.Properties.Resources.resources
+C:\Users\mparsa\Desktop\Othello\Othello\obj\Debug\Othello.csproj.GenerateResource.Cache
+C:\Users\Parsa Arani\Programming Term-2\Othello\Othello\bin\Debug\Othello.exe.config
+C:\Users\Parsa Arani\Programming Term-2\Othello\Othello\obj\Debug\Othello.exe
+C:\Users\Parsa Arani\Programming Term-2\Othello\Othello\obj\Debug\Othello.pdb
+C:\Users\Parsa Arani\Programming Term-2\Othello\Othello\bin\Debug\Othello.exe
+C:\Users\Parsa Arani\Programming Term-2\Othello\Othello\bin\Debug\Othello.pdb
+C:\Users\Parsa Arani\Programming Term-2\Othello\Othello\obj\Debug\Othello.csprojResolveAssemblyReference.cache
+C:\Users\Parsa Arani\Programming Term-2\Othello\Othello\obj\Debug\Othello.Form1.resources
+C:\Users\Parsa Arani\Programming Term-2\Othello\Othello\obj\Debug\Othello.Properties.Resources.resources
+C:\Users\Parsa Arani\Programming Term-2\Othello\Othello\obj\Debug\Othello.csproj.GenerateResource.Cache
+C:\Users\Parsa Arani\Programming Term-2 - C#\Othello\Othello\bin\Debug\Othello.exe.config
+C:\Users\Parsa Arani\Programming Term-2 - C#\Othello\Othello\obj\Debug\Othello.exe
+C:\Users\Parsa Arani\Programming Term-2 - C#\Othello\Othello\obj\Debug\Othello.pdb
+C:\Users\Parsa Arani\Programming Term-2 - C#\Othello\Othello\bin\Debug\Othello.exe
+C:\Users\Parsa Arani\Programming Term-2 - C#\Othello\Othello\bin\Debug\Othello.pdb
+C:\Users\Parsa Arani\Programming Term-2 - C#\Othello\Othello\obj\Debug\Othello.csprojResolveAssemblyReference.cache
+C:\Users\Parsa Arani\Programming Term-2 - C#\Othello\Othello\obj\Debug\Othello.Form1.resources
+C:\Users\Parsa Arani\Programming Term-2 - C#\Othello\Othello\obj\Debug\Othello.Properties.Resources.resources
+C:\Users\Parsa Arani\Programming Term-2 - C#\Othello\Othello\obj\Debug\Othello.csproj.GenerateResource.Cache
